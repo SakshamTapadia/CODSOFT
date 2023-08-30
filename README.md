@@ -43,15 +43,19 @@ Welcome to the CODSOFT GitHub repository! This repository houses a collection of
    Create a model to predict sales trends and patterns.
 
    *Dataset*
+   https://github.com/SakshamTapadia/CODSOFT/blob/main/Task4%20-%20DataSet.csv
    
    *Project*
-
-5. **Credit Card Fraud Detection:**
+   https://github.com/SakshamTapadia/CODSOFT/blob/main/Task4%20-Sales%20Prediction%20using%20Python.ipynb
+   
+6. **Credit Card Fraud Detection:**
    Detect fraudulent credit card transactions using advanced machine learning techniques.
 
    *Dataset*
    
+   
    *Project*
+
 
 **Contributing:**
 
