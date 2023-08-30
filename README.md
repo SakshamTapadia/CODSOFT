@@ -16,20 +16,26 @@ Welcome to the CODSOFT GitHub repository! This repository houses a collection of
    
 3. **Movie Rating Prediction using Python:**
    Develop a model to predict movie ratings based on various features.
-   [Dataset]
-   [Project]
 
-4. **IRIS Flower Classification:**
+   *Dataset*
+   **Movies :** https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20-%20DataSet%20Movies.csv
+   **Ratings :** https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20-%20DataSet%20Ratings.csv
+   **Users :** https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20-%20DataSet%20Users.csv
+   *Project*
+   https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20
+   Movie%20Rating%20Prediction%20using%20Python.ipynb
+
+5. **IRIS Flower Classification:**
    Classify different species of IRIS flowers using machine learning algorithms.
    [Dataset]
    [Project]
 
-5. **Sales Prediction using Python:**
+6. **Sales Prediction using Python:**
    Create a model to predict sales trends and patterns.
    [Dataset]
    [Project]
 
-6. **Credit Card Fraud Detection:**
+7. **Credit Card Fraud Detection:**
    Detect fraudulent credit card transactions using advanced machine learning techniques.
    [Dataset]
    [Project]
