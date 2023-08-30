@@ -14,7 +14,7 @@ Welcome to the CODSOFT GitHub repository! This repository houses a collection of
    *Project:*
    https://github.com/SakshamTapadia/CODSOFT/blob/main/Task1%20-Titanic%20Survival%20Prediction.ipynb
    
-3. **Movie Rating Prediction using Python:**
+2. **Movie Rating Prediction using Python:**
    Develop a model to predict movie ratings based on various features.
 
    *Dataset*
@@ -30,20 +30,28 @@ Welcome to the CODSOFT GitHub repository! This repository houses a collection of
    *Project*
    https://github.com/SakshamTapadia/CODSOFT/blob/7432e5358547ca78e1e5f04beb9bcb77e8aef289/Task2%20-Movie%20Rating%20Prediction%20using%20Python.ipynb
 
-5. **IRIS Flower Classification:**
+3. **IRIS Flower Classification:**
    Classify different species of IRIS flowers using machine learning algorithms.
-   [Dataset]
-   [Project]
 
-6. **Sales Prediction using Python:**
+   *Dataset:*
+   https://github.com/SakshamTapadia/CODSOFT/blob/main/Task3%20-%20DataSet.csv
+
+   *Project*
+   https://github.com/SakshamTapadia/CODSOFT/blob/main/Task3%20-IRIS%20Flower%20Classification.ipynb
+
+4. **Sales Prediction using Python:**
    Create a model to predict sales trends and patterns.
-   [Dataset]
-   [Project]
 
-7. **Credit Card Fraud Detection:**
+   *Dataset*
+   
+   *Project*
+
+5. **Credit Card Fraud Detection:**
    Detect fraudulent credit card transactions using advanced machine learning techniques.
-   [Dataset]
-   [Project]
+
+   *Dataset*
+   
+   *Project*
 
 **Contributing:**
 
