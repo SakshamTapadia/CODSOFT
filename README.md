@@ -28,8 +28,7 @@ Welcome to the CODSOFT GitHub repository! This repository houses a collection of
    https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20-%20DataSet%20Users.csv
 
    *Project*
-   https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20
-   Movie%20Rating%20Prediction%20using%20Python.ipynb
+https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20Movie%20Rating%20Prediction%20using%20Python.ipynb
 
 5. **IRIS Flower Classification:**
    Classify different species of IRIS flowers using machine learning algorithms.
