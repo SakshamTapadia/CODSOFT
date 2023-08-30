@@ -52,10 +52,11 @@ Welcome to the CODSOFT GitHub repository! This repository houses a collection of
    Detect fraudulent credit card transactions using advanced machine learning techniques.
 
    *Dataset*
-   
+   The Dataset I had was of 166 mb so can't Upload that here as the compressed zip file of the dataset is       also too large so giving the link of KAGGLE from where i also downloaded the dataset.
+   https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
    
    *Project*
-
+   https://github.com/SakshamTapadia/CODSOFT/blob/main/Task5%20-Credit%20Card%20Fraud%20Detection.ipynb
 
 **Contributing:**
 
