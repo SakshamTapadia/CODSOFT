@@ -7,25 +7,27 @@ Welcome to the CODSOFT GitHub repository! This repository houses a collection of
 
 1. **Titanic Survival Prediction:**
    Predict the survival outcomes of Titanic passengers using machine learning techniques.
-   [Dataset - https://github.com/SakshamTapadia/CODSOFT/blob/576ad4856a5511fd63547f0b13eb101da7559f1a/Task1%20-%20DataSet.csv]
-   [Project]
+   <u>Dataset:</u>
+   https://github.com/SakshamTapadia/CODSOFT/blob/main/Task1%20-%20DataSet.csv
+   <u>Project:</u>
+   https://github.com/SakshamTapadia/CODSOFT/blob/main/Task1%20-Titanic%20Survival%20Prediction.ipynb
    
-2. **Movie Rating Prediction using Python:**
+3. **Movie Rating Prediction using Python:**
    Develop a model to predict movie ratings based on various features.
    [Dataset]
    [Project]
 
-3. **IRIS Flower Classification:**
+4. **IRIS Flower Classification:**
    Classify different species of IRIS flowers using machine learning algorithms.
    [Dataset]
    [Project]
 
-4. **Sales Prediction using Python:**
+5. **Sales Prediction using Python:**
    Create a model to predict sales trends and patterns.
    [Dataset]
    [Project]
 
-5. **Credit Card Fraud Detection:**
+6. **Credit Card Fraud Detection:**
    Detect fraudulent credit card transactions using advanced machine learning techniques.
    [Dataset]
    [Project]
