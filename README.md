@@ -18,9 +18,15 @@ Welcome to the CODSOFT GitHub repository! This repository houses a collection of
    Develop a model to predict movie ratings based on various features.
 
    *Dataset*
-   **Movies :** https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20-%20DataSet%20Movies.csv
-   **Ratings :** https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20-%20DataSet%20Ratings.csv
-   **Users :** https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20-%20DataSet%20Users.csv
+   **Movies :**
+   https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20-%20DataSet%20Movies.csv
+
+   **Ratings :**
+   https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20-%20DataSet%20Ratings.csv
+
+   **Users :**
+   https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20-%20DataSet%20Users.csv
+
    *Project*
    https://github.com/SakshamTapadia/CODSOFT/blob/main/Task2%20
    Movie%20Rating%20Prediction%20using%20Python.ipynb
