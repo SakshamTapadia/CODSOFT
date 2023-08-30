@@ -7,7 +7,7 @@ Welcome to the CODSOFT GitHub repository! This repository houses a collection of
 
 1. **Titanic Survival Prediction:**
    Predict the survival outcomes of Titanic passengers using machine learning techniques.
-   [Dataset]
+   [Dataset - https://github.com/SakshamTapadia/CODSOFT/blob/576ad4856a5511fd63547f0b13eb101da7559f1a/Task1%20-%20DataSet.csv]
    [Project]
    
 2. **Movie Rating Prediction using Python:**
